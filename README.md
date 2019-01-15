@@ -1,10 +1,18 @@
 # clientServerRPNcalc
 A simple client-server calculator which uses Reverse Polish Notation
 
-USAGE
+## USAGE
+### Server
 1) make
 2) ./server
-3) gcc client.c -o client
-4) ./client 127.0.0.1
+
+### Client
+1) gcc client.c -o client
+2) ./client 127.0.0.1
+
+### Example
+![example](https://github.com/midist0xf/clientServerRPNcalc/blob/master/example.png)
+
+
 
 
